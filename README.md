@@ -5,7 +5,7 @@ Site em desenvolvimento por Caique Coelho para praticar HTML, CSS, JavaScript e 
 
 ## Instruções
 
-- Baixe o arquivo o repositóro
+- Baixe o repositóro
 - Abra o arquivo index.html em um browser qualquer
 
 
