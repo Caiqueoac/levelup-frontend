@@ -16,4 +16,4 @@ Site em desenvolvimento por Caique Coelho para praticar HTML, CSS, JavaScript e 
 - Melhorar a responsividade;
 - Criar o formulário de registro de clientes e assinaturas;
 - Criar página explicando o serviço dos Bots
-- Criar tela principal do sistemas de Bots
+- Criar tela principal do sistema de Bots
